@@ -19,6 +19,12 @@ português. Com ele é possível acessar e manipular dados estruturados.
 
 [W3S](https://www.w3schools.com/sql/default.asp)
 
+## SQL Fiddle
+
+Com o SQL Fiddle é possível rodar comandos SQL no navegador;
+
+[SQL Finddle](http://sqlfiddle.com/)
+
 ## Alguns dos comandos SQL mais importantes
 
 - `SELECT`
